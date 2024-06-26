@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/CUSTOMCOMPONENTS_JBUTTON/nbproject/private/
+/CUSTOMCOMPONENTS_JBUTTON/build/
+/CUSTOMCOMPONENTS_JBUTTON/dist/
+/MANAGER_IMG/nbproject/private/
